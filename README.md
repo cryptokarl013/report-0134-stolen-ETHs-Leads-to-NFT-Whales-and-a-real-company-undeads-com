@@ -72,6 +72,8 @@ All of these disclosed addresses are managed manually and crypto circulates arou
 
 The Breadcrumb report visualizes the connections between addresses: [https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c](https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c) 
 
+![](images/image11.png)
+
 ⚡ One of the addresses 0x5a8af490848d43d74f9d848ec14a7319494ae020 has been implicated in other thefts. The link: [https://x.com/ElwoodFox4/status/1782344348153344139](https://x.com/ElwoodFox4/status/1782344348153344139).
 
 **Conclusions:**
