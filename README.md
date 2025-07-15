@@ -29,6 +29,8 @@ There is a connection to [Undeads.com](http://undeads.com), a legitimate company
 
 The Breadcrumbs Report: [https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c](https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c) 
 
+![](images/image11.png)
+
 | # | Hypotheses | Confidence | Comments |
 |---|---|---|---|
 | 1 | n0b0dy.eth and indifferent.eth, being "NFT whales," are managed by a single person or a coordinated group | 99% | The EVM-addresses have direction connections with each other  |
@@ -76,6 +78,8 @@ The Breadcrumb report visualizes the connections between addresses: [https://www
 
 ⚡ One of the addresses 0x5a8af490848d43d74f9d848ec14a7319494ae020 has been implicated in other thefts. The link: [https://x.com/ElwoodFox4/status/1782344348153344139](https://x.com/ElwoodFox4/status/1782344348153344139).
 
+![](images/image33.png)
+
 **Conclusions:**
 
 * n0b0dy.eth and indifferent.eth, being "NFT whales," are managed by a single person or a coordinated group 
@@ -91,11 +95,19 @@ According to Crunchbase, [Undeads.com](http://undeads.com) has only two listed i
 * n0b0dy.eth profile - [https://www.crunchbase.com/person/n0b0dy-eth-nobody-vault](https://www.crunchbase.com/person/n0b0dy-eth-nobody-vault) 
 * indifferent.eth profile - [https://www.crunchbase.com/person/indifferentguy-eth-indifferentguy](https://www.crunchbase.com/person/indifferentguy-eth-indifferentguy) 
 
+![](images/image29.png)
+
+![](images/image26.png)
+
 The Undeads.com website identifies Sezual Pte Ltd as its legal entity but provides no information regarding its specific jurisdiction or operational residence.
 
 **Links:** [https://undeads.com/legal/terms](https://undeads.com/legal/terms) 
 
+![](images/image28.png)
+
 @undeadscom ([https://x.com/undeadscom](https://x.com/undeadscom)) twitter discloses that a based Sezual Pte Ltd company is registered in Singapore.
+
+![](images/image14.png)
 
 Officially, the SEZUAL PTE. LTD. company is listed as a software developer, but it specifically excludes games, which is an unusual classification given its activities:
 
@@ -108,9 +120,17 @@ SEZUAL PTE. LTD. (the "Company") is an Exempt Private Company Limited by Shares,
 * [https://www.sgpbusiness.com/company/Sezual-Pte-Ltd](https://www.sgpbusiness.com/company/Sezual-Pte-Ltd) 
 * [https://www.dnb.com/business-directory/company-profiles.sezual_pte_ltd.e65e611ea6bd54cb6efc89e43f986f42.html](https://www.dnb.com/business-directory/company-profiles.sezual_pte_ltd.e65e611ea6bd54cb6efc89e43f986f42.html) 
 
+![](images/image23.png)
+
 Until Sezual Pte Ltd company (Singapore) is considered as a main equity, the company Undeads Interactive Limited (London) is a publisher.
 
+![](images/image17.png)
+
+![](images/image20.png)
+
 The Undeads LinkedIn account states about Headquarters in the United Arab Emirates.
+
+![](images/image10.png)
 
 [Undeads.com](http://undeads.com) has their own coin UDS that is listed on [coinmarketcap.com](http://coinmarketcap.com) and other crypto exchanges. Market Cap: ~$50M in June 2025.
 
@@ -121,6 +141,8 @@ Despite receiving millions in investments and their coin having a market cap of 
 ### Hidings in [Undeads.com](http://undeads.com)
 
 The publicly named founders of Undeads.com, Grant Haseley and Leo Kahn, do not appear to have official accounts in social networks directly affiliated with the "undeads.com" label.
+
+![](images/image27.png)
 
 **Grant Haseley (Founder, USA)** 
 
@@ -136,6 +158,8 @@ The publicly named founders of Undeads.com, Grant Haseley and Leo Kahn, do not a
 It's unusual for a company of Undeads' stated size (50+ employees) to have only one publicly visible employee profile on LinkedIn, with all others hidden or private (including accounts of C-level). This is atypical for businesses aiming for transparency and professional networking.
 
 The link: [https://www.linkedin.com/company/undeadscom/](https://www.linkedin.com/company/undeadscom/) 
+
+![](images/image8.png)
 
 Here are the other individuals whose real identities have been disclosed: 
 
@@ -161,3 +185,57 @@ This investigation leads to several assumptions:
 Donations to support this and future investigations are welcome at the following ETH address: 0x0206AfA1A71cc833b8ade7a94748b6638798F193.
 
 For any further clarification regarding the current investigation, please contact [cryptokarl013@gmail.com](mailto:cryptokarl013@gmail.com). Any assistance that helps enrich the investigation would be greatly appreciated.
+
+
+* * * * * * * * * * * * * * * * * *
+
+## Related screenshots
+
+![](images/image16.png)
+
+![](images/image3.png)
+
+![](images/image24.png)
+
+![](images/image4.png)
+
+![](images/image5.png)
+
+![](images/image19.png)
+
+![](images/image32.png)
+
+![](images/image25.png)
+
+![](images/image12.png)
+
+[https://www.theboredapegazette.com/post/this-crypto-whale-purchased-two-rare-bored-apes-since-thanksgiving](https://www.google.com/url?q=https://www.theboredapegazette.com/post/this-crypto-whale-purchased-two-rare-bored-apes-since-thanksgiving&sa=D&source=editors&ust=1752587228977831&usg=AOvVaw1NAO4EDyAlA0VAdIlXvjvP)
+
+![](images/image2.png)
+
+![](images/image18.png)
+
+![](images/image13.png)
+
+![](images/image34.png)
+
+![](images/image31.png)
+
+![](images/image7.png)
+
+![](images/image1.png)
+
+![](images/image20.png)
+
+![](images/image9.png)
+
+![](images/image15.png)
+
+![](images/image30.png)
+
+![](images/image21.png)
+
+![](images/image6.png)
+
+![](images/image22.png)
+
