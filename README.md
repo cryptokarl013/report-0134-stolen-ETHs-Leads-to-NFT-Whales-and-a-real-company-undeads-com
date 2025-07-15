@@ -13,7 +13,7 @@ For any further clarification regarding the current investigation, please contac
 
 ## Keywords
 
-[switchere.com](http://switchere.com){:target="_blank"}, indifferent.eth, n0b0dy.eth, [undeads.com](http://undeads.com), Grant Haseley, Leo Kahn, Sezual PTE. LTD., Undeads Interactive Limited.
+[switchere.com](http://switchere.com), indifferent.eth, n0b0dy.eth, [undeads.com](http://undeads.com), Grant Haseley, Leo Kahn, Sezual PTE. LTD., Undeads Interactive Limited.
 
 ## Abstract
 
@@ -27,7 +27,7 @@ There is a connection to [Undeads.com](http://undeads.com), a legitimate company
 
 [undeads.com](http://undeads.com) company cap may be affected with dirty money from the n0b0dy.eth and indifferent.eth.
 
-The Breadcrumbs Report: [https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c](https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c){:target="_blank"} 
+The Breadcrumbs Report: [https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c](https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c) 
 
 ![](images/image11.png)
 
