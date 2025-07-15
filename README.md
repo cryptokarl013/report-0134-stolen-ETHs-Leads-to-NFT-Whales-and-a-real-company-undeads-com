@@ -161,6 +161,9 @@ The link: [https://www.linkedin.com/company/undeadscom/](https://www.linkedin.co
 
 ![](images/image8.png)
 
+This is the LinkedIn profile of the CEO of Undeads.com:
+![](images/image15.png)
+
 Here are the other individuals whose real identities have been disclosed: 
 
 * Roman Roshchuk (position: unknown, Ukraine) - [https://x.com/roshchuck](https://x.com/roshchuck) 
@@ -224,10 +227,6 @@ For any further clarification regarding the current investigation, please contac
 ![](images/image1.png)
 
 ![](images/image20.png)
-
-![](images/image9.png)
-
-![](images/image15.png)
 
 ![](images/image30.png)
 
