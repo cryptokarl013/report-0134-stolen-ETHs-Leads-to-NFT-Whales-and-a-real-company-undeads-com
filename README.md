@@ -13,7 +13,7 @@ For any further clarification regarding the current investigation, please contac
 
 ## Keywords
 
-[switchere.com](http://switchere.com), indifferent.eth, n0b0dy.eth, [undeads.com](http://undeads.com), Grant Haseley, Leo Kahn, Sezual PTE. LTD., Undeads Interactive Limited.
+[switchere.com](http://switchere.com){:target="_blank"}, indifferent.eth, n0b0dy.eth, [undeads.com](http://undeads.com), Grant Haseley, Leo Kahn, Sezual PTE. LTD., Undeads Interactive Limited.
 
 ## Abstract
 
