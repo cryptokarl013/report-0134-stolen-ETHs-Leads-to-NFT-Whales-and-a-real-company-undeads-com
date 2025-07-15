@@ -17,7 +17,7 @@ For any further clarification regarding the current investigation, please contac
 
 ## Abstract
 
-In May 2022, over 100 ETH were stolen from a Switchere.com's hot wallet. By 2025, these stolen funds were traced to NFT whales Indifferent.eth and N0b0dy.eth, who hold assets worth over $25 million.
+In May 2022, over 100 ETH were stolen from a hot wallet of the [switchere.com](http://switchere.com) crypto exchange. By 2025, these stolen funds were traced to NFT whales __Indifferent.eth__ and __N0b0dy.eth__, who hold assets worth over $25 million.
 
 It's highly probable that n0b0dy.eth and indifferent.eth are managed by a single person or a coordinated group.
 
