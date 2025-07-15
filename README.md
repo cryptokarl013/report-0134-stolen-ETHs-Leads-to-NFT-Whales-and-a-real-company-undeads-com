@@ -209,8 +209,6 @@ For any further clarification regarding the current investigation, please contac
 
 ![](images/image12.png)
 
-[https://www.theboredapegazette.com/post/this-crypto-whale-purchased-two-rare-bored-apes-since-thanksgiving](https://www.google.com/url?q=https://www.theboredapegazette.com/post/this-crypto-whale-purchased-two-rare-bored-apes-since-thanksgiving&sa=D&source=editors&ust=1752587228977831&usg=AOvVaw1NAO4EDyAlA0VAdIlXvjvP)
-
 ![](images/image2.png)
 
 ![](images/image18.png)
