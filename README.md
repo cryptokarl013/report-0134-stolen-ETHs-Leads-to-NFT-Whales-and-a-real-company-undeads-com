@@ -37,7 +37,7 @@ The Breadcrumbs Report: [https://www.breadcrumbs.app/reports/17067?share=df899b2
 | 4 | undeads.com hides official personal and company information intentionally The Undeads.com website does not provide information about the jurisdiction of a legal company. The founders of undeads.com do not have public accounts in social networks under undeads.com label. The Undeads company LinkedIn profile has only one open employee profile. All others are closed including C-level. | 70% | Hard to find information about legal company, founders, C-Level, employees  |
 | 5 | The company has harmful intentions towards its community | 15% | This is solely the analyst's subjective intuition; no facts were found to confirm the hypothesis.  |
 
-Concerns Regarding Undeads.com Funding 
+### Concerns Regarding Undeads.com Funding 
 
 There are allegations that Undeads.com has been funded with illicit money provided by investors Nobody.eth and Indifferent.eth.
 
