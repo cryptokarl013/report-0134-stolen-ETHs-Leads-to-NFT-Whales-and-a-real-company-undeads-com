@@ -3,17 +3,19 @@
 **The report:**
 
 * **Author:** Crypto Karl, a crypto detective, [cryptokarl013@gmail.com](mailto:cryptokarl013@gmail.com);
-* **Last updated:** July 10, 2025;
-* **Version:** 1.0.1;
+* **Last updated:** July 21, 2025;
+* **Version:** 1.0.2;
 * **Category:** investigation of a crypto theft.
 
 _**Update July 10, 2025:** some information started being changed after publishing the report. For example, links between Indifferent.eth and N0b0dy.eth removed from undeads.com crunchbase portal. Refer to original screenshots or web archives._
 
 For any further clarification regarding the current investigation, please contact [cryptokarl013@gmail.com](mailto:cryptokarl013@gmail.com). Any assistance that helps enrich the investigation would be greatly appreciated.
 
+The report's content is based on verifiable public information.
+
 ## Keywords
 
-[switchere.com](http://switchere.com), indifferent.eth, n0b0dy.eth, [undeads.com](http://undeads.com), Grant Haseley, Leo Kahn, Sezual PTE. LTD., Undeads Interactive Limited.
+[switchere.com](http://switchere.com), indifferent.eth, n0b0dy.eth, [undeads.com](http://undeads.com), Sezual PTE. LTD., Undeads Interactive Limited.
 
 ## Abstract
 
