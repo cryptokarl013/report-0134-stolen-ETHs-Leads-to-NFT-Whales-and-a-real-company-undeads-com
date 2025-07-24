@@ -2,14 +2,14 @@
 
 **The report:**
 
-* **Author:** Crypto Karl, a crypto detective, [cryptokarl013@gmail.com](mailto:cryptokarl013@gmail.com);
-* **Last updated:** July 21, 2025;
-* **Version:** 1.0.2;
+* **Author:** Crypto Karl, a crypto detective, [@cryptokarl013](https://github.com/cryptokarl013);
+* **Last updated:** July 25, 2025;
+* **Version:** 1.0.3;
 * **Category:** investigation of a crypto theft.
 
 _**Update July 10, 2025:** some information started being changed after publishing the report. For example, links between Indifferent.eth and N0b0dy.eth removed from undeads.com crunchbase portal. Refer to original screenshots or web archives._
 
-For any further clarification regarding the current investigation, please contact [cryptokarl013@gmail.com](mailto:cryptokarl013@gmail.com). Any assistance that helps enrich the investigation would be greatly appreciated.
+For any further clarification regarding the current investigation, please contact [@cryptokarl013](https://github.com/cryptokarl013). Any assistance that helps enrich the investigation would be greatly appreciated.
 
 The report's content is based on verifiable public information.
 
@@ -189,7 +189,7 @@ This investigation leads to several assumptions:
 
 Donations to support this and future investigations are welcome at the following ETH address: 0x0206AfA1A71cc833b8ade7a94748b6638798F193.
 
-For any further clarification regarding the current investigation, please contact [cryptokarl013@gmail.com](mailto:cryptokarl013@gmail.com). Any assistance that helps enrich the investigation would be greatly appreciated.
+For any further clarification regarding the current investigation, please contact [@cryptokarl013](https://github.com/cryptokarl013). Any assistance that helps enrich the investigation would be greatly appreciated.
 
 
 * * * * * * * * * * * * * * * * * *
