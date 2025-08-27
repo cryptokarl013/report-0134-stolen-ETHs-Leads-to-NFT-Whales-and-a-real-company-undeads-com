@@ -4,11 +4,8 @@
 > _**Update July 10, 2025:** some information started being changed after publishing the report. For example, links between Indifferent.eth and N0b0dy.eth removed from undeads.com crunchbase portal. Refer to original screenshots or web archives._
 
 > [!IMPORTANT]
-> For any further clarification regarding the current investigation, please contact @github/cryptokarl013. Any assistance that helps enrich the investigation would be greatly appreciated.
+> For any further clarification regarding the current investigation, please contact [@cryptokarl013](https://github.com/cryptokarl013). Any assistance that helps enrich the investigation would be greatly appreciated.\
 > The report's content is based on verifiable public information.
-
-> [!KEYWORDS]
-> #indifferent.eth, n0b0dy.eth
 
 ## Keywords
 
