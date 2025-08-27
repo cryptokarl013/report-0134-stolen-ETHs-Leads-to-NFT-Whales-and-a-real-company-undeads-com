@@ -1,18 +1,14 @@
 # Public Report #0134 Stolen 100 ETHs Leads to NFT Whales (25mln$ worth) and a real company (6mln$ investments and 50mln$ coin cap) | undeads.com was funded with dirty money from investors
 
-**The report:**
-
-* **Author:** Crypto Karl, a crypto detective, [@cryptokarl013](https://github.com/cryptokarl013);
-* **Last updated:** July 25, 2025;
-* **Version:** 1.0.3;
-* **Category:** investigation of a crypto theft.
-
 > [!NOTE]
 > _**Update July 10, 2025:** some information started being changed after publishing the report. For example, links between Indifferent.eth and N0b0dy.eth removed from undeads.com crunchbase portal. Refer to original screenshots or web archives._
 
 > [!IMPORTANT]
 > For any further clarification regarding the current investigation, please contact @github/cryptokarl013. Any assistance that helps enrich the investigation would be greatly appreciated.
 > The report's content is based on verifiable public information.
+
+> [!KEYWORDS]
+> #indifferent.eth, n0b0dy.eth
 
 ## Keywords
 
