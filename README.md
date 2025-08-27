@@ -7,7 +7,8 @@
 * **Version:** 1.0.3;
 * **Category:** investigation of a crypto theft.
 
-_**Update July 10, 2025:** some information started being changed after publishing the report. For example, links between Indifferent.eth and N0b0dy.eth removed from undeads.com crunchbase portal. Refer to original screenshots or web archives._
+> [!NOTE]
+> _**Update July 10, 2025:** some information started being changed after publishing the report. For example, links between Indifferent.eth and N0b0dy.eth removed from undeads.com crunchbase portal. Refer to original screenshots or web archives._
 
 For any further clarification regarding the current investigation, please contact [@cryptokarl013](https://github.com/cryptokarl013). Any assistance that helps enrich the investigation would be greatly appreciated.
 
