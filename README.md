@@ -1,1 +1,1 @@
-# Moved: [Public Report #0134 Stolen 100 ETHs Leads to NFT Whales (25mln$ worth) and a real company (6mln$ investments and 50mln$ coin cap)](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom)
+### Moved: [Public Report #0134 Stolen 100 ETHs Leads to NFT Whales (25mln$ worth) and a real company (6mln$ investments and 50mln$ coin cap)](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom)
