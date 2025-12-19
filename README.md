@@ -1,1 +1,1 @@
-# report-0134-stolen-ETHs-Leads-to-NFT-Whales-and-a-real-company-undeads-com
+Moved to: [Crypto Report #0134 Stolen 100 ETHs Leads to NFT Whales n0b0dy and indifferentguy (25mln$ worth) and a real company undeads.com (6mln$ investments and 50mln$ coin cap)](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/)
